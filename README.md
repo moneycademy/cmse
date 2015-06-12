@@ -1,4 +1,4 @@
-#The cmse
+#The CMSe
 Free and Open-Source Content Managment System ("CMS") for e-Sports.
 
 #What?
