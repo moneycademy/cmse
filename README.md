@@ -2,7 +2,7 @@
 Free and Open-Source Content Managment System ("CMS") for personal and business use.
 
 #What?
-MoneyCademy CMS was created by me and my main goal is to build a free and simple CMS.
+MoneyCademy CMS was created by me and my main goal is to build a free and simple CMS suitable for everyone.
 
 #Get started
 1. Upload the folder contents to your web server.
