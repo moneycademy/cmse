@@ -10,9 +10,9 @@ MoneyCademy CMS was created by me and my main goal is to build a free and simple
 3. Follow the instructions on the Install Wizard.
 
 #Demo
-**url:** [CMS Demo](http://labs.moneycademy.com/cmse "MoneyCademy CMS Demo")
-**email:** user@domain.com
-**password:** user12345
+**url:** [CMS Demo](http://labs.moneycademy.com/cmse "MoneyCademy CMS Demo").
+**email:** user@domain.com.
+**password:** user12345.
 
 #Credits
 * [Laravel Framework](http://www.laravel.com "Laravel Framework")
