@@ -6,7 +6,7 @@ MoneyCademy CMS was created by me and my main goal is to build a free and simple
 
 #Get started
 1. Upload the folder contents to your web server.
-2. Go to yourdomain.com/install
+2. Go to **yourdomain.com/install**
 3. Follow the instructions on the Install Wizard.
 
 #Credits
